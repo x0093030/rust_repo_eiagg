@@ -1,7 +1,7 @@
 // Este es un programa básico en Rust
 
 fn main() {
-    // Imprime un mensaje en la consola
+    // Imprime un mensaje en la consola 
     println!("¡Hola desde Rust!");
 
     // Declaración de variables
